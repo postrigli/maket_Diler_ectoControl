@@ -1,0 +1,5 @@
+{
+  "name": "EctoControl Dealer Locator",
+  "description": "A prototype for the 'Where to buy' page of EctoControl website with interactive map and dealer/installer switcher.",
+  "requestFramePermissions": []
+}
